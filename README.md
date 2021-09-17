@@ -34,11 +34,11 @@
 
 <br>
 
-### 📖 Blogs & Contributions ...
+### 📖 Contributions ...
 
 <a href="https://stackexchange.com/users/2795790"><img src="https://stackexchange.com/users/flair/2795790.png?theme=clean" width="208" height="58" alt="profile for Shashank Agrawal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank Agrawal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> <a href="https://medium.com/@snagrawal"><img src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" width="200px"></a>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagrawal31&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shashank's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagrawal31&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagrawal31&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shashank's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagrawal31&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
 | ------------- | ------------- |
 
 <br>
