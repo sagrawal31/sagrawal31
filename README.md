@@ -11,11 +11,11 @@ I'm a developer from the core, so continuous learning is something that I never 
 - Peer review my team's code and spot things without running
 - Share my knowledge (it doesn't matter if they are a fresher)
 - Contribute to open source community
-<br>
+  <br>
 
 ### 🧑🏻‍💻 &nbsp;Founder & CTO
 
-<a href="https://www.linkedin.com/company/letscooee/"><img src="https://raw.githubusercontent.com/letscooee/code-culture/main/assets/images/logo-hoodie.png"  align="left" width="180px"/></a> 
+<a href="https://www.linkedin.com/company/letscooee/"><img src="https://raw.githubusercontent.com/letscooee/code-culture/main/assets/images/logo-hoodie.png"  align="left" width="180px"/></a>
 
 **Reinventing In-App Messaging**  
 Helping companies combine the power of design and data to deliver one to one personalisation for customer engagement
@@ -27,28 +27,29 @@ Deliver Tailored design with the automated continuous learning platform
 
 ### 🛠 &nbsp;Tools & Technologies
 
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></kbd>&nbsp;
+<kbd><img height="45" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></kbd>&nbsp;
+<kbd><img height="45" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></kbd>&nbsp;
+<kbd><img height="45" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></kbd>&nbsp;
+<kbd><img height="45" title="NestJS" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></kbd>&nbsp;
+<kbd><img height="45" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></kbd>&nbsp;
+<kbd><img height="45" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></kbd>&nbsp;
+<kbd><img height="45" title="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></kbd>&nbsp;
+<kbd><img height="45" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></kbd>&nbsp;
+<kbd><img height="45" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></kbd>&nbsp;
+<kbd><img height="45" title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></kbd>&nbsp;
+<kbd><img height="45" title="Gradle" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></kbd>&nbsp;
+<kbd><img height="45" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></kbd>&nbsp;
 
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/4e78b534204b949518e0115bef9fee5194dcb152/topics/cordova/cordova.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></kbd>&nbsp;
+<kbd><img height="45" title="Cordova" src="https://raw.githubusercontent.com/github/explore/4e78b534204b949518e0115bef9fee5194dcb152/topics/cordova/cordova.png"></kbd>&nbsp;
+<kbd><img height="45" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></kbd>&nbsp;
+<kbd><img height="45" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></kbd>&nbsp;
+<kbd><img height="45" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></kbd>&nbsp;
+<kbd><img height="45" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></kbd>&nbsp;
+<kbd><img height="45" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></kbd>&nbsp;
+<kbd><img height="45" title="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></kbd>&nbsp;
+<kbd><img height="45" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></kbd>&nbsp;
+<kbd><img height="45" title="macOS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></kbd>&nbsp;
+<kbd><img height="45" title="PWA" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></kbd>&nbsp;
 
 <br>
 
