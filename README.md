@@ -17,7 +17,8 @@ I'm a developer from the core, so continuous learning is something that I never 
 
 <a href="https://www.linkedin.com/company/letscooee/"><img src="https://raw.githubusercontent.com/letscooee/code-culture/main/assets/images/logo-hoodie.png"  align="left" width="180px"/></a>
 
-**Reinventing [In-App](https://www.letscooee.com) Messaging** ([Try NOW](https://dashboard.letscooee.com/engage/composer) on your website) 
+**Reinventing [In-App](https://www.letscooee.com) Messaging** 
+([Try NOW](https://dashboard.letscooee.com/engage/composer) on your website)  
 Helping companies combine the power of design and data to deliver one to one personalisation for customer engagement
 
 **One to One Personalisation @ Scale**  
