@@ -17,12 +17,12 @@ I'm a developer from the core, so continuous learning is something that I never 
 
 <a href="https://www.linkedin.com/company/letscooee/"><img src="https://raw.githubusercontent.com/letscooee/code-culture/main/assets/images/logo-hoodie.png"  align="left" width="180px"/></a>
 
-**Reinventing [In-App](https://www.letscooee.com) Messaging** 
-([Try NOW](https://dashboard.letscooee.com/engage/composer) on your website)  
-Helping companies combine the power of design and data to deliver one to one personalisation for customer engagement
+**The Super App for Conversion Optimisation** 
+([Try NOW]([https://dashboard.letscooee.com/engage/composer](https://apps.shopify.com/cooee-engage-your-customers?utm_source=github&utm_medium=profile&utm_campaign=shashank_agrawal_profile) on your Shopify store)
+Cooee is the first solution built for Shopify that understands where each visitor is in their buying journey and engages with them uniquely in real-time, powered by AI.
 
 **One to One Personalisation @ Scale**  
-Deliver Tailored design with the automated continuous learning platform
+Amongst 11,000 platform integration on Shopify, Cooee is the only one that deliver realtime personalization. Looking at 40+ micro behaviours the platform segments visitors when they are on the website and deliver the right message, right time to each visitors using automations, powered by AI.
 
 <br>
 
