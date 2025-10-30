@@ -2,7 +2,7 @@
 
 <a align="center" href="https://www.linkedin.com/in/s-agrawal/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="80px"></a> &nbsp; ![](https://komarev.com/ghpvc/?username=sagrawal31&color=green)
 
-Serial entrepreneur. 10+ years of hands-on experience developing a product/platform from scratch. For me, any or every code written (even test code) must be optimised for formatting, standard, performance, reusability and scalability (I know it's too much). I enforce this in every pull/merge request from my team and try to educate them every time (sometimes they get frustrated 😃 ) because every small thing matters.
+Serial entrepreneur. 13+ years of hands-on experience developing a product/platform from scratch. For me, any or every code written (even test code) must be optimised for formatting, standard, performance, reusability and scalability (I know it's too much). I enforce this in every pull/merge request from my team and try to educate them every time (sometimes they get frustrated 😃 ) because every small thing matters.
 
 I'm a developer from the core, so continuous learning is something that I never miss. My playground:
 
