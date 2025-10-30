@@ -15,10 +15,10 @@ I'm a developer from the core, so continuous learning is something that I never 
 
 ### 🧑🏻‍💻 &nbsp;Founder & CTO
 
-<a href="https://www.linkedin.com/company/letscooee/"><img src="https://raw.githubusercontent.com/letscooee/code-culture/main/assets/images/logo-hoodie.png"  align="left" width="180px"/></a>
+<a href="https://www.letscooee.com?utm_source=github&utm_medium=profile&utm_campaign=shashank_agrawal_profile"><img src="https://raw.githubusercontent.com/letscooee/code-culture/main/assets/images/logo-hoodie.png"  align="left" width="180px"/></a>
 
 **The Super App for Conversion Optimisation** 
-([Try NOW]([https://dashboard.letscooee.com/engage/composer](https://apps.shopify.com/cooee-engage-your-customers?utm_source=github&utm_medium=profile&utm_campaign=shashank_agrawal_profile) on your Shopify store)
+([Try NOW](https://apps.shopify.com/cooee-engage-your-customers?utm_source=github&utm_medium=profile&utm_campaign=shashank_agrawal_profile) on your Shopify store)<br>
 Cooee is the first solution built for Shopify that understands where each visitor is in their buying journey and engages with them uniquely in real-time, powered by AI.
 
 **One to One Personalisation @ Scale**  
